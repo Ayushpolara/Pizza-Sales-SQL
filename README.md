@@ -1,4 +1,4 @@
-Pizza Sales Analysis with SQL
+## Pizza Sales Analysis with SQL
 
 Project Overview:
 The Pizza Sales Analysis Project aims to analyze the sales data of a pizza restaurant chain using SQL. This project involves creating database tables, importing sample data, and running various SQL queries to extract meaningful insights. The analysis helps in understanding sales patterns, revenue generation, and customer preferences, which can inform business decisions regarding inventory, marketing, and overall strategy.
